@@ -1,0 +1,4 @@
+data/
+warehouse/
+__pycache__/
+*.pyc
